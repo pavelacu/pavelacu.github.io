@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://pavelacu/pavelacu.github.io
 languageCode: en-us
 title: Pavel's Blog
 theme: "toha"
@@ -31,7 +31,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL and branch of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/pavelacu/pavelacu.github.io
   gitBranch: main
 
   # specify whether you want to write some blog posts or not

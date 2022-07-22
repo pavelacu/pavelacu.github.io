@@ -4,8 +4,7 @@ name: Deploy to Github Pages
 on:
   push:
      branches:
-      - source  # Set a branch to deploy
-  pull_request:
+      - source  # Set a branch to deploy  
 
 jobs:
   deploy:
